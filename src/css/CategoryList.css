@@ -1,0 +1,11 @@
+.categoryList{
+  font-size: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+.categoryList a{
+  margin-left: 5px;
+}
